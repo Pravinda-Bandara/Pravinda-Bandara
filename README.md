@@ -68,10 +68,8 @@ Spring | Spring-Boot | NodeJS | ExpressJS | React | Anguler | HTML | CSS | SASS 
 
 
 
-Connect with me
-<p align="center">
-<a href="https://github.com/Pravinda-Bandara"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="nipuna_piyumal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pravinda-bandara-b12b4728b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<h3>Contact me</h3>
+<a href="https://github.com/Pravinda-Bandara" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="maven" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/pravinda-bandara-b12b4728b/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="maven" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="maven" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a>
 
-
-</p>
