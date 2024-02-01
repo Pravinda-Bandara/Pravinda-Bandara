@@ -1,14 +1,15 @@
+<h1 align="center">Hey there 👋 , I'm PRavinda Bandara </h1>
 
-<h1 align="center">Hi 👋, I'm Pravinda Bandara</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Sri Lanka 🇱🇰</h3>
+###
 
--------------
+<h3 align="left">A passionate Full Stack Software Engineer from Sri Lanka 🇱🇰</h3>
 
-## 👨‍💻 About Me:
-👋 Welcome to my GitHub profile!<br><br>I'm Pravinda Bandara, a field changed passionate Software Engineer and Bachelor of Science (Hons) Engineering graduate from University Moratuwa with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.
+###
 
-## 📚  Education:
-Bachelor of Scienece (Hons) Engineering - University of Moratuwa.
+<p align="left">👨‍🎓 B.Sc. Engineering(Hons) graduated from Faculty of Engineering, University of Moratuwa, Sri Lanka<br><br>👨🏻‍💻 Software Engineer Trainee at IJSE-Institute of Java and Software Engineering<br><br>📭 How to reach me <a href="mailto:bandarapravinda@gmail.com">bandarapravinda@gmail.com</a>
+
+###
+
 
 
 ## 👨‍💻 My Tech Stack:
@@ -20,7 +21,6 @@ Bachelor of Scienece (Hons) Engineering - University of Moratuwa.
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" height="50"/></a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" alt="nodeJS" width="50" height="50"/></a> 
 
-Java | JavaScript | TypeScript 
 
 <h3>Web Frameworks and Technologies</h3>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50"/></a> 
@@ -58,12 +58,7 @@ Java | JavaScript | TypeScript
 
 
 
-
-
-
-
 <h3>Contact me</h3>
 <a href="https://github.com/Pravinda-Bandara" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="maven" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/pravinda-bandara-b12b4728b/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="maven" width="40" height="40"/></a>
 <a href="mailto:bandarapravinda@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="maven" width="40" height="40"/></a>
-
