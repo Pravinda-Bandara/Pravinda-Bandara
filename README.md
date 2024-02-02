@@ -39,7 +39,7 @@
 
 
 <h3>Databases</h3>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/></a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="postgresl" width="50" height="50"/></a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/></a> 
 
