@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 , I'm PRavinda Bandara </h1>
+<h1 align="center">Hey there 👋 , I'm Pravinda Bandara </h1>
 
 ###
 
@@ -18,7 +18,6 @@
 
 <h3>Programming Languages and Technologies</h3>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50"/></a>
-<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" height="50"/></a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" alt="nodeJS" width="50" height="50"/></a> 
 
 
@@ -29,6 +28,7 @@
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=expressjs" alt="ExpressJS" width="50" height="50"/></a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="nodeJS" width="50" height="50"/></a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="50" height="50"/></a> 
+<a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JS" width="50" height="50"/></a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/></a>
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/></a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="50" height="50"/></a> 
