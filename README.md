@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍🎓 B.Sc. Engineering(Hons) graduated from Faculty of Engineering, University of Moratuwa, Sri Lanka<br><br>👨🏻‍💻 Software Engineer Trainee at IJSE-Institute of Java and Software Engineering<br><br>📭 How to reach me <a href="mailto:bandarapravinda@gmail.com">bandarapravinda@gmail.com</a>
+<p align="left">👨‍🎓 B.Sc. Engineering(Hons) graduated from Faculty of Engineering, University of Moratuwa, Sri Lanka<br><br>👨🏻‍💻 Software Engineer Trainee at IJSE<br><br>📭 How to reach me <a href="mailto:bandarapravinda@gmail.com">bandarapravinda@gmail.com</a>
 
 ###
 
