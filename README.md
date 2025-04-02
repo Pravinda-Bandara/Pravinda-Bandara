@@ -6,4 +6,4 @@
 
 ###
 
-<p align="left">👨‍🎓 B.Sc. Engineering(Hons) graduated from Faculty of Engineering, University of Moratuwa, Sri Lanka<br><br>👨🏻‍💻 Software Engineer Trainee at IJSE<br><br>👨🏻‍💻 Associate Software Engineer at Tecoora Digital IT Solution<br><br>📭 How to reach me <a href="mailto:bandarapravinda@gmail.com">bandarapravinda@gmail.com</a>
+<p align="left">👨‍🎓 B.Sc. Engineering(Hons) graduated from Faculty of Engineering, University of Moratuwa, Sri Lanka<br><br>👨🏻‍💻 Software Engineer Trainee at IJSE<br><br>👨🏻‍💻 Associate Software Engineer at Tecoora Digital IT Solution<br><br>👨🏻‍💻 Associate Software Engineer at Central Finance PLC<br><br>📭 How to reach me <a href="mailto:bandarapravinda@gmail.com">bandarapravinda@gmail.com</a>
